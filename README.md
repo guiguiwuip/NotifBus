@@ -10,9 +10,9 @@ N'hésitez pas à me contacter pour plus d'informations.
 
 Installation
 ------------
-1- Mettre en place la base de donnée Notifbus en important dtb.sql
-2- Copier Notifbus de façon a y accéder via localhost/Notifbus
-3- Modifier app/Config/database.php si nécessaire.
+1. Mettre en place la base de donnée Notifbus en important dtb.sql
+2. Copier Notifbus de façon a y accéder via localhost/Notifbus
+3. Modifier app/Config/database.php si nécessaire.
 
 
 Equipe
