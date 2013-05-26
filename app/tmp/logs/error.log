@@ -1,0 +1,836 @@
+2013-05-18 22:37:08 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 5
+            [arret] => HMVE
+            [ligne_id] => 28
+            [sens] => 2
+            [options] => 32
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [start] => Array
+                        (
+                            [hour] => 00
+                            [min] => 40
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 23
+                            [min] => 40
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:41:16 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 5
+            [arret] => HMVE
+            [ligne_id] => 28
+            [sens] => 2
+            [options] => a
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [start] => Array
+                        (
+                            [hour] => 00
+                            [min] => 40
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 23
+                            [min] => 40
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:43:13 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 5
+            [arret] => HMVE
+            [ligne_id] => 28
+            [sens] => 2
+            [options] => a
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [start] => Array
+                        (
+                            [hour] => 00
+                            [min] => 40
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 23
+                            [min] => 40
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:44:07 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 5
+            [arret] => OTAG
+            [ligne_id] => 2
+            [sens] => 2
+            [options] => s
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [start] => Array
+                        (
+                            [hour] => 00
+                            [min] => 40
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 23
+                            [min] => 40
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:44:26 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 5
+            [arret] => OTAG
+            [ligne_id] => 2
+            [sens] => 1
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [start] => Array
+                        (
+                            [hour] => 00
+                            [min] => 40
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 23
+                            [min] => 40
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:44:48 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 5
+            [arret] => HMVE
+            [ligne_id] => 28
+            [sens] => 2
+            [options] => a
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [start] => Array
+                        (
+                            [hour] => 00
+                            [min] => 40
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 23
+                            [min] => 40
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:50:46 Error: Fatal Error (4): syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in [/Applications/MAMP/htdocs/NotifBus/app/Controller/TerminusController.php, line 44]
+2013-05-18 22:50:46 Error: [FatalErrorException] syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')'
+Request URL: /Notifbus/terminus/options/id/2
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-18 22:50:50 Error: Fatal Error (4): syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in [/Applications/MAMP/htdocs/NotifBus/app/Controller/TerminusController.php, line 44]
+2013-05-18 22:50:50 Error: [FatalErrorException] syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')'
+Request URL: /Notifbus/terminus/options/28/2
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-18 22:51:01 Error: Fatal Error (4): syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in [/Applications/MAMP/htdocs/NotifBus/app/Controller/TerminusController.php, line 44]
+2013-05-18 22:51:01 Error: [FatalErrorException] syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')'
+Request URL: /NotifBus/terminus
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-18 22:51:04 Error: Fatal Error (4): syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in [/Applications/MAMP/htdocs/NotifBus/app/Controller/TerminusController.php, line 44]
+2013-05-18 22:51:04 Error: [FatalErrorException] syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')'
+Request URL: /NotifBus/terminus/options/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-18 22:51:04 Error: Fatal Error (4): syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in [/Applications/MAMP/htdocs/NotifBus/app/Controller/TerminusController.php, line 44]
+2013-05-18 22:51:04 Error: [FatalErrorException] syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')'
+Request URL: /NotifBus/terminus/options/images/login/icon.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-18 22:51:28 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 5
+            [arret] => HMVE
+            [ligne_id] => 28
+            [sens] => 2
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [start] => Array
+                        (
+                            [hour] => 00
+                            [min] => 40
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 23
+                            [min] => 40
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:51:49 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 
+            [arret] => OTAG
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 
+                    [start] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 22:52:04 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 
+            [arret] => GMAR
+            [ligne_id] => 1
+            [sens] => 1
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 
+                    [start] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 23:29:36 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 34
+            [arret] => GMAR
+            [ligne_id] => 1
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 29
+                    [start] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 23:29:49 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 34
+            [arret] => GMAR
+            [ligne_id] => 1
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 29
+                    [start] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 23:30:37 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 34
+            [arret] => GMAR
+            [ligne_id] => 1
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 29
+                    [start] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 23:40:56 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 34
+            [arret] => GMAR
+            [ligne_id] => 1
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 29
+                    [start] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 23:41:33 Error: Array
+(
+    [Arret] => Array
+        (
+            [id] => 34
+            [arret] => GMAR
+            [ligne_id] => 1
+            [options] => 0
+            [delai] => 5
+            [lieux_id] => 0
+        )
+
+    [Horaire] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 29
+                    [start] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                    [end] => Array
+                        (
+                            [hour] => 22
+                            [min] => 51
+                        )
+
+                )
+
+        )
+
+    [User] => Array
+        (
+            [id] => 1
+        )
+
+)
+
+2013-05-18 23:43:09 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php, line 103]
+2013-05-18 23:43:09 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Notifbus/arrets/update/47.2497081/-1.5894031
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 103)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 103, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 103, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-18 23:43:22 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php, line 103]
+2013-05-18 23:43:22 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /NotifBus/update
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 103)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 103, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 103, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-20 12:36:26 Error: [MissingActionException] Action LieuxController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'LieuxController',
+  'action' => 'images',
+)
+Request URL: /Notifbus/lieux/images/login/icon.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(LieuxController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-05-20 13:21:09 Error: [MissingControllerException] Controller class UdpateController could not be found.
+Exception Attributes: array (
+  'class' => 'UdpateController',
+  'plugin' => NULL,
+)
+Request URL: /NotifBus/udpate
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:41:06 Error: [MissingControllerException] Controller class UdpateController could not be found.
+Exception Attributes: array (
+  'class' => 'UdpateController',
+  'plugin' => NULL,
+)
+Request URL: /NotifBus/udpate
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:33:10 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /NotifBus/users/images/login/icon.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-05-20 15:37:32 Error: Fatal Error (4): syntax error, unexpected '}' in [/Applications/MAMP/htdocs/NotifBus/app/Model/Arret.php, line 174]
+2013-05-20 15:37:32 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /Notifbus/arrets/update/47.2497094/-1.5894534
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 174)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 174, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 174, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-20 15:41:32 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php, line 223]
+2013-05-20 15:41:32 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /Notifbus/arrets/update/47.2497188/-1.5894454
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 223)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 223, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 223, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-20 15:41:38 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php, line 223]
+2013-05-20 15:41:38 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /NotifBus/update
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 223)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 223, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 223, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-20 15:41:53 Error: Fatal Error (1): Call to undefined function array_value() in [/Applications/MAMP/htdocs/NotifBus/app/Model/Arret.php, line 185]
+2013-05-20 15:41:53 Error: [FatalErrorException] Call to undefined function array_value()
+Request URL: /NotifBus/update
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/M...', 185)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/M...', 185, Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/M...', 185, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-21 10:17:15 Error: [PDOException] SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress
+Request URL: /NotifBus/update
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Terminu...', Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `Terminu...', Array, Array)
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `Terminu...', false)
+#4 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(2688): DboSource->read(Object(Terminus), Array)
+#5 /Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php(111): Model->find('first', Array)
+#6 [internal function]: ArretsController->update()
+#7 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(ArretsController), Array)
+#8 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ArretsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-21 10:17:15 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/Applications/MAMP/tmp/mysql/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /NotifBus/update
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/ConnectionManager.php(102): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3209): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3231): Model->setSource('arrets')
+#5 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(2688): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php(74): Model->find('all', Array)
+#7 [internal function]: ArretsController->update()
+#8 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(ArretsController), Array)
+#9 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ArretsController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-21 10:17:16 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/Applications/MAMP/tmp/mysql/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /NotifBus/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/ConnectionManager.php(102): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3209): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3231): Model->setSource('users')
+#5 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(1319): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/Helper/FormHelper.php(198): Model->schema()
+#7 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/Helper/FormHelper.php(448): FormHelper->_introspectModel('User', 'fields')
+#8 /Applications/MAMP/htdocs/NotifBus/app/View/Elements/login.ctp(9): FormHelper->create('User', Array)
+#9 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(948): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(910): View->_evaluate('/Applications/M...', Array)
+#11 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(1211): View->_render('/Applications/M...', Array)
+#12 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(414): View->_renderElement('/Applications/M...', Array, Array)
+#13 /Applications/MAMP/htdocs/NotifBus/app/View/Layouts/home.ctp(37): View->element('login')
+#14 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(948): include('/Applications/M...')
+#15 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(910): View->_evaluate('/Applications/M...', Array)
+#16 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(535): View->_render('/Applications/M...')
+#17 /Applications/MAMP/htdocs/NotifBus/lib/Cake/View/View.php(479): View->renderLayout('', 'home')
+#18 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#19 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#20 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ArretsController), Object(CakeRequest), Object(CakeResponse))
+#21 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2013-05-21 10:17:16 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/Applications/MAMP/tmp/mysql/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /NotifBus/update
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/ConnectionManager.php(102): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3209): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3231): Model->setSource('arrets')
+#5 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(2688): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php(74): Model->find('all', Array)
+#7 [internal function]: ArretsController->update()
+#8 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(ArretsController), Array)
+#9 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ArretsController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-21 10:17:16 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/Applications/MAMP/tmp/mysql/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /NotifBus/update
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/ConnectionManager.php(102): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3209): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(3231): Model->setSource('arrets')
+#5 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Model/Model.php(2688): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php(74): Model->find('all', Array)
+#7 [internal function]: ArretsController->update()
+#8 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(ArretsController), Array)
+#9 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ArretsController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-21 10:19:35 Error: [MissingActionException] Action LieuxController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'LieuxController',
+  'action' => 'images',
+)
+Request URL: /Notifbus/lieux/images/login/icon.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/NotifBus/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(LieuxController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/NotifBus/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

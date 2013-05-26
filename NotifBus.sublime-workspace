@@ -1,0 +1,1569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ne",
+				"newArray1"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ksor",
+				"krsort"
+			],
+			[
+				"pro",
+				"prochainPassage"
+			],
+			[
+				"id",
+				"idArret"
+			],
+			[
+				"pri",
+				"prochainsHoraires"
+			],
+			[
+				"lign",
+				"ligne"
+			],
+			[
+				"ligne",
+				"lignes"
+			],
+			[
+				"arrets",
+				"arretsListe"
+			],
+			[
+				"hora",
+				"horaires"
+			],
+			[
+				"Ligne",
+				"LigneName"
+			],
+			[
+				"load",
+				"loader"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"edit",
+				"editArret"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"firt",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"noti",
+				"notif"
+			],
+			[
+				"arret",
+				"arret"
+			],
+			[
+				"arrêt",
+				"arrêts"
+			],
+			[
+				"container",
+				"container-flash"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"con",
+				"conatiner-flash"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"arrayu",
+				"array_unshift"
+			],
+			[
+				"toggle",
+				"toggle-off"
+			],
+			[
+				"has",
+				"hasClass  (function)"
+			],
+			[
+				"upda",
+				"updateNotifMenu"
+			],
+			[
+				"notif",
+				"notifications"
+			],
+			[
+				"no",
+				"notifications"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"Prochai",
+				"prochainPassage"
+			],
+			[
+				"notifi",
+				"notifications"
+			],
+			[
+				"lieux",
+				"lieux_id"
+			],
+			[
+				"loade",
+				"loaderOff"
+			],
+			[
+				"loader",
+				"loaderOff"
+			],
+			[
+				"loa",
+				"loaderOn"
+			],
+			[
+				"addC",
+				"addClass  (function)"
+			],
+			[
+				"n",
+				"hidden"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"web",
+				"webkitNotif"
+			],
+			[
+				"notific",
+				"notification"
+			],
+			[
+				"not",
+				"notificationOk"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"er",
+				"errorThrown"
+			],
+			[
+				"lieu",
+				"lieuOk"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"proch",
+				"prochainsHoraires"
+			],
+			[
+				"prochai",
+				"prochainPassage"
+			],
+			[
+				"Lieux",
+				"lieux"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"Hor",
+				"Horaire"
+			],
+			[
+				"set",
+				"setFlash  (function)"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"chan",
+				"changePassword"
+			],
+			[
+				"rec",
+				"recursive"
+			],
+			[
+				"log",
+				"logout  (function)"
+			],
+			[
+				"che",
+				"check_if_exist"
+			],
+			[
+				"retour",
+				"retourTan"
+			],
+			[
+				"ob",
+				"objWOEID"
+			],
+			[
+				"met",
+				"meteo"
+			],
+			[
+				"x",
+				"xmlMeteo"
+			],
+			[
+				"stru",
+				"strtoupper"
+			],
+			[
+				"xml",
+				"xmlMeteo"
+			],
+			[
+				"w",
+				"woeid"
+			],
+			[
+				"o",
+				"objWOEID"
+			],
+			[
+				"xm",
+				"xmlWOEID"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"infos",
+				"infosTan"
+			],
+			[
+				"info",
+				"infoTan"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"stop",
+				"stopForm"
+			],
+			[
+				"artc",
+				"article"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"acces",
+				"accesToken"
+			],
+			[
+				"se",
+				"set"
+			],
+			[
+				"select2-",
+				"select2-highlighted"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"comple",
+				"completeFacebook"
+			],
+			[
+				"_c",
+				"_construct"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"facebo",
+				"facebookLogin"
+			],
+			[
+				"wDr",
+				"wDropZone"
+			],
+			[
+				"wd",
+				"wDrag"
+			],
+			[
+				"ta",
+				"ta	text-align: left"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"els",
+				"elseif	elseif …"
+			],
+			[
+				"array_s",
+				"array_slice"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"ca",
+				"calendar"
+			],
+			[
+				"strot",
+				"strtotime"
+			],
+			[
+				"dat",
+				"date"
+			],
+			[
+				"route",
+				"routes"
+			],
+			[
+				"rou",
+				"routes"
+			],
+			[
+				"na",
+				"nameStopArea"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"nas",
+				"natsort"
+			],
+			[
+				"nat",
+				"natsort"
+			],
+			[
+				"tip",
+				"trips"
+			],
+			[
+				"stop_",
+				"stops_max"
+			],
+			[
+				"stops",
+				"stops_max"
+			],
+			[
+				"trips",
+				"trips_file"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"routes",
+				"routes_id"
+			],
+			[
+				"trip",
+				"trips_id"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"stri",
+				"stristr"
+			],
+			[
+				"opt",
+				"optb"
+			],
+			[
+				"upages",
+				"upagesHead"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"widget",
+				"widgetk"
+			],
+			[
+				"slider",
+				"sliderk"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"AJX",
+				"ajaxOptions"
+			],
+			[
+				"aja",
+				"ajaxOptions"
+			],
+			[
+				"a",
+				"ajax"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"remove",
+				"removeClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/webroot/js/main.js",
+			"settings":
+			{
+				"buffer_size": 35453,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/webroot/css/style.css",
+			"settings":
+			{
+				"buffer_size": 11455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controller/ArretsController.php",
+			"settings":
+			{
+				"buffer_size": 14276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Model/Arret.php",
+			"settings":
+			{
+				"buffer_size": 5526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/View/Arrets/edit.ctp",
+			"settings":
+			{
+				"buffer_size": 6309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/View/Elements/footer.ctp",
+			"settings":
+			{
+				"buffer_size": 1686,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"al",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"Snippet:",
+				"Snippet: function"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: f",
+				"Snippet: function"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"worl",
+				"Word Wrap: Toggle"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 152.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Guillaume/Downloads/base_de_donnee_notifbus.sql",
+		"/Users/Guillaume/Downloads/Ftp automator@foglo.fr.xml",
+		"/Applications/MAMP/htdocs/NotifBus/app/Controller/AppController.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/edit.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/Controller/TerminusController.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/tmp/logs/error.log",
+		"/Applications/MAMP/htdocs/NotifBus/app/Controller/LignesController.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/Model/Ligne.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/webroot/js/zelect.js",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Elements/footer.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/Model/Arret.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/Controller/LieuxController.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/update.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/index.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/webroot/js/google-tts.js",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/lieux.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/Controller/HorairesController.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/Controller/ArretsController.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Horaires/horaires.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Layouts/login.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Layouts/home.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Elements/flash_default.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Terminus/index.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lignes/lignes.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lignes/directions.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lignes/essai.ctp",
+		"/Users/Guillaume/Downloads/google-tts/index.html",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Layouts/default.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/webroot/css/flat-ui.css",
+		"/Applications/MAMP/htdocs/NotifBus/app/webroot/js/jquery-1.8.2.min.js",
+		"/Applications/MAMP/htdocs/NotifBus/app/Model/Terminus.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/Model/User.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/Controller/UsersController.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Elements/login.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Elements/flash.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/webroot/css/style.css",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/add.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/webroot/js/application.js",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Elements/header.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/nePlusMeRappeler.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/add.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/index.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/admin_add.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/profil.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/admin_list.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/admin_list.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Horaires/admin_list.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/Config/routes.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/admin_list.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/webroot/js/main.js",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Layouts/flash.ctp",
+		"/Users/Guillaume/Dropbox/NotifBus/Login.html",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/inscription.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/login.ctp",
+		"/Users/Guillaume/Dropbox/NotifBus/mes-arrets.html",
+		"/Applications/MAMP/htdocs/NotifBus/app/Plugin/Tools/Lib/GeocodeLib.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/Config/bootstrap.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/admin_add.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Arrets/admin_edit.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Horaires/admin_edit.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Horaires/admin_add.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/Model/Horaire.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/Model/Lieux.php",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/edit.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/_add.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/admin_add.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/admin_edit.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Lieux/admin_view.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/admin_edit.ctp",
+		"/Users/Guillaume/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/Guillaume/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/Guillaume/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/edit.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/View/Users/index.ctp",
+		"/Applications/MAMP/htdocs/NotifBus/app/Config/core.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/Controller/UsersController.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/Config/database.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widgets/widget_meteo.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/Model/Widget.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/Controller/WidgetsController.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/webroot/css/style.css",
+		"/Applications/MAMP/htdocs/CakePHP/app/Config/core.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/Model/AppModel.php",
+		"/Users/Guillaume/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/CakePHP/app/tmp/logs/debug.log",
+		"/Applications/MAMP/htdocs/CakePHP/11-11-12/public_html/app/Config/database.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/tmp/logs/error.log",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Pages/plan.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/11-11-12/public_html/blog/wp-config.php",
+		"/Applications/MAMP/htdocs/CakePHP/11-11-12/public_html/app/Config/core.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/webroot/js/main.js",
+		"/Applications/MAMP/htdocs/CakePHP/app/Model/User.php",
+		"/Applications/MAMP/htdocs/CakePHP/Backup/dtbBackup.php",
+		"/Users/Guillaume/Downloads/flowcode_v5/serial.txt",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Layouts/default.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Pages/aide.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Pages/about.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/Controller/TansController.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/webroot/js/select2.js",
+		"/Applications/MAMP/htdocs/CakePHP/app/Config/routes.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Pages/presse.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/Console/Command/AirShell.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widgets/widget_ecolo.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/tmp/logs/indices.log",
+		"/Applications/MAMP/htdocs/CakePHP/app/tmp/logs/rss.log",
+		"/Applications/MAMP/htdocs/CakePHP/app/tmp/cache/cake_woeid_nantes",
+		"/Applications/MAMP/htdocs/CakePHP/app/tmp/cache/cake_meteo_nantes",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widgets/widget_twitter.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widgets/widget_rss.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widgets/widget_facebook.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/error_widget.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/Controller/AppController.php",
+		"/Applications/MAMP/htdocs/CakePHP/blog/wp-config.php",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widgets.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widget_add.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/Model/Media.php",
+		"/Users/Guillaume/Library/Application Support/Sublime Text 2/Packages/User/transitionCSS",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Layouts/pages.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/header.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/footer.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/widgets/widget_tan.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Pages/premium.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Elements/info_pub.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Users/premium.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Widgets/edit.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Widgets/actualites.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/View/Widgets/transports.ctp",
+		"/Applications/MAMP/htdocs/CakePHP/app/Model/Lila.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/CakePHP/app/webroot/files/tan_gtfs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"newArray1",
+			"LigneName",
+			"Ligne.name",
+			"ArretName",
+			"édition",
+			"'.$key.'",
+			".$key.",
+			"border: 1px solid #dbdece;",
+			"':'",
+			" selected=\"selected\"",
+			"+nb+",
+			"<option",
+			"un jour",
+			"ArretSens",
+			"LigneName",
+			"value.",
+			"value",
+			" #ArretOptions",
+			"#ArretSens,",
+			" #ArretSens,",
+			"#LigneName,",
+			"#ArretName, ",
+			"#intro",
+			"->Ligne",
+			" [description]",
+			" [type] ",
+			"last",
+			"open",
+			"arret",
+			"</a> ",
+			" <a>",
+			"numeric",
+			"numeirc",
+			"int",
+			"Horaire",
+			"$h",
+			"H",
+			"h",
+			"horaires",
+			" [description]",
+			"[type]",
+			"[description]",
+			"[type]",
+			"directions",
+			"'Tan'",
+			"Tan",
+			"->Tan",
+			"Tan",
+			"tan",
+			"Tan",
+			"Les deux mots de passe ne correspondent pas et ne peuvent pas être laissés vides.",
+			"notifMenu",
+			"$(notifMenu)",
+			"').",
+			"$(notifMenu)",
+			"notifMenu",
+			"printNotification",
+			"display: inline-block;\n			margin-right: 10px;",
+			"btn-info",
+			"date",
+			"  0% {\n    width: 2.2em;\n    height: 2.2em;\n    background: #3498DB;\n  }\n  30%{\n 	background: #9B59B6;\n  }\n  60%{\n    width: 2.2em;\n    height: 2.2em;\n    background: #F1C40F;\n  }\n  100%{\n 	width: 2.2em;\n 	height: 2.2em;\n 	background: #E74C3C;\n  }",
+			" width: 3em;\n    height: 3em;",
+			"  width:",
+			" width:",
+			" width: 2.2em;\n    height: 2.2em;",
+			"notifLength",
+			"notif",
+			"this",
+			"0.5",
+			"  0% {\n    width: 2.2em;\n    height: 2.2em;\n    background: #fff;\n  }\n  30%{\n 	background: #495B83;\n  }\n  60%{\n    width: 3em;\n    height: 3em;\n    background: #3A3A3A;\n    margin: -0.5em 0 0 -0.5em;\n  }\n  100%{\n 	width: 2.2em;\n 	height: 2.2em;\n 	background: #4E9A53;\n  }\n",
+			"80px",
+			"4em",
+			"3em",
+			"users",
+			"F39C12",
+			"null",
+			"password",
+			"div.heade",
+			"carte-open",
+			"ul.Arret",
+			"Arret",
+			"body.login",
+			".login",
+			"title_",
+			"span class=\"navbar-unread\">1</span>",
+			"refresh",
+			"\"",
+			"?\n",
+			"printNotification",
+			"notification",
+			"host",
+			"());",
+			"position",
+			"positionlieu",
+			"position",
+			";\n",
+			"getCurrentPosition",
+			"login",
+			"crash",
+			"$delai",
+			"delai",
+			"attente",
+			"aasort",
+			"$passage",
+			"Passage",
+			"passage",
+			"delai",
+			"$arrets[$i]",
+			"arretsTan",
+			"$arret",
+			"attente",
+			"return",
+			"$l",
+			"Lieux",
+			"lieux",
+			"Lieux",
+			"users",
+			">\n",
+			"$Horaire",
+			"Lieux",
+			"lieux",
+			"Lieux",
+			"lieux",
+			"Lieux",
+			"lieux",
+			"Lieux",
+			"lieux",
+			"Lieux"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/webroot/js/main.js",
+					"settings":
+					{
+						"buffer_size": 35453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23719,
+								23719
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9306.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/webroot/css/style.css",
+					"settings":
+					{
+						"buffer_size": 11455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11384,
+								11384
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7749.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Controller/ArretsController.php",
+					"settings":
+					{
+						"buffer_size": 14276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5615,
+								5615
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2635.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Model/Arret.php",
+					"settings":
+					{
+						"buffer_size": 5526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4298,
+								4298
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2184.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/View/Arrets/edit.ctp",
+					"settings":
+					{
+						"buffer_size": 6309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2583,
+								2583
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 986.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/View/Elements/footer.ctp",
+					"settings":
+					{
+						"buffer_size": 1686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1187,
+								1187
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"app/webroot/css/style.css"
+			],
+			[
+				"libsessions",
+				"lib/Cake/Model/Datasource/Session/CakeSessionHandlerInterface.php"
+			],
+			[
+				"session",
+				"lib/Cake/Controller/Component/SessionComponent.php"
+			],
+			[
+				"sanitize",
+				"lib/Cake/Utility/Sanitize.php"
+			],
+			[
+				"sanit",
+				"lib/Cake/Utility/Sanitize.php"
+			],
+			[
+				"main",
+				"app/webroot/js/main.js"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"flex",
+				"flexslider.css"
+			],
+			[
+				"pa",
+				"page-accueil.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"single-c",
+				"single-cours.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"news",
+				"archive-news.php"
+			],
+			[
+				"single",
+				"single-cours.php"
+			],
+			[
+				"sear",
+				"js/search.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"sty",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true
+}
