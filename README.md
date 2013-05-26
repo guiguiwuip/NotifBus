@@ -4,13 +4,13 @@ NotifBus
 Projet de fin d'année réalisé dans le cadre de l'ISN au [Lycée Nicolas Appert](http://appert.e-lyco.fr/).  
 Application web construite à l'aide du framework [CakePHP](http://cakephp.org/).  
 
-Notifie l'utilisateur d'un prochain passage d'un transport en commun Tan à un arrêt sélectionnée.  
+Notifie l'utilisateur d'un prochain passage d'un transport en commun Tan à un arrêt sélectionné.  
 
-N'hésitez pas à me contacter pour plus d'informations.  
+*N'hésitez pas à me contacter pour plus d'informations.*  
 
 Installation
 ------------
-1. Mettre en place la base de donnée Notifbus en important dtb.sql
+1. Mettre en place la base de donnée Notifbus en important dtb.sql via phpMyAdmin.
 2. Copier Notifbus de façon a y accéder via localhost/Notifbus
 3. Modifier app/Config/database.php si nécessaire.
 
